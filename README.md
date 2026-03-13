@@ -1762,45 +1762,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-## 💬 Support
 
-Need help? We're here for you!
-
-### Discord
-
-Join our community Discord server for:
-- Real-time support
-- Feature discussions
-- Community governance
-- Development updates
-
-[Join Discord](https://discord.gg/vora)
-
-### Twitter
-
-Follow us for:
-- Product announcements
-- Governance highlights
-- Community spotlights
-- Technical insights
-
-[@VoraProtocol](https://twitter.com/VoraProtocol)
-
-### Email
-
-For private inquiries:
-- General: hello@vora.io
-- Security: security@vora.io
-- Partnerships: partnerships@vora.io
-- Press: press@vora.io
-
-**Response Time:**
-- Discord: Usually within hours
-- Email: Within 24-48 hours
-- Security issues: Within 24 hours
-
----
-
-Built with ❤️ by the Vora community
-
-[Website](https://vora.io) • [Documentation](https://docs.vora.io) • [GitHub](https://github.com/vora-protocol) • [Blog](https://blog.vora.io)
